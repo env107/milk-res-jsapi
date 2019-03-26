@@ -1,0 +1,22 @@
+{
+  "name": "mi-jssdk",
+  "version": "1.1.0",
+  "description": "milk authorization spawn sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/env107/milk-res-jsapi.git"
+  },
+  "author": "env107",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/env107/milk-res-jsapi/issues"
+  },
+  "homepage": "https://github.com/env107/milk-res-jsapi#readme",
+  "dependencies": {
+    "nonce-str": "^1.0.1"
+  }
+}
